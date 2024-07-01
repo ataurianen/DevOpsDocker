@@ -1,0 +1,5 @@
+This is the readme, use input "basics" to complete this exercise.
+
+Give me the password: basics
+You found the correct password. Secret message is:
+"This is the secret message"
