@@ -1,5 +1,5 @@
 services:
-  up:
+  webservice:
     image: devopsdockeruh/simple-web-service:ubuntu
     build: .
     volumes:
